@@ -1,0 +1,30 @@
+ tr {
+    border: 2px solid black;
+    padding-left: 1%;
+  }
+  td{
+    border: 2px solid black;
+    padding-left: 1%;
+    
+  }
+
+  th{
+    padding-left: 1%;
+  }
+  .btext{
+    font-size: 1rem;
+    
+   
+  }
+  span{
+    font-weight: bold;
+  }
+  body{
+    font-family: italic;
+    font-size: large;
+    overflow-x: hidden;
+    
+
+  }
+
+ 
